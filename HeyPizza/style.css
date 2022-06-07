@@ -1,0 +1,62 @@
+h1{
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px; 
+color: #1D201C;
+}
+h2{
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 48px;  
+color: #1D201C;
+}
+h3{
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+color: #1D201C;
+}
+h4{
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 36px;
+color: #1D201C;
+}
+body{
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 40px;
+color: #1D201C;
+}
+
+button{
+width: 320px;
+height: 84px;
+background: #FFBB01;
+box-shadow: 2px 2px 10px #E4DECB;
+border-radius: 30px;
+border: none;
+font-family: 'Sora';
+font-weight: 700;
+font-style: normal;
+font-size: 24px;
+line-height: 48px;
+align-items: center;
+text-align: center;
+}
+
+img{
+  width: 520px; 
+}
+
+
